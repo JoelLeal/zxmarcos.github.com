@@ -4,7 +4,7 @@
   <title><![CDATA[Biiits]]></title>
   <link href="http://zxmarcos.github.io/atom.xml" rel="self"/>
   <link href="http://zxmarcos.github.io/"/>
-  <updated>2014-04-11T16:06:29-03:00</updated>
+  <updated>2014-04-11T16:08:15-03:00</updated>
   <id>http://zxmarcos.github.io/</id>
   <author>
     <name><![CDATA[Marcos]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Olá Mundo]]></title>
-    <link href="http://zxmarcos.github.io/blog/2014/04/11/ola-mundo/"/>
-    <updated>2014-04-11T16:06:20-03:00</updated>
-    <id>http://zxmarcos.github.io/blog/2014/04/11/ola-mundo</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
